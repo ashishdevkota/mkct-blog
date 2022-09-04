@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Covid",
+      "body": "COVID-19 affects different people in different ways. Most infected people will develop mild to moderate illness and recover without hospitalization. Most common symptoms: fever cough tiredness loss of taste or smell Less common symptoms: sore throat headache aches and pains diarrhoea a rash on skin, or discolouration of fingers or toes red or irritated eyes",
+      "author": "mkctII",
+      "id": 1
+    },
+    {
+      "title": "manu",
+      "body": "Manu er i indisk mytologi en halvgud, en dødelig skapning med guddommelige status, som overlevde den store oversvømmelsen.  Manu ble advart av gudene om den forestående katastrofen, og bygget seg en båt. Som den eneste overlevende fra den gamle verden ga han navn til den nye menneskeslekten, og ble et forbilde i gudstro og livsførsel",
+      "author": "mkctII",
+      "id": 2
+    },
+    {
+      "title": "Norway",
+      "body": "Norway, officially the Kingdom of Norway,[a] is a Nordic country in Northern Europe, the mainland territory of which comprises the western and northernmost portion of the Scandinavian Peninsula. The remote Arctic island of Jan Mayen and the archipelago of Svalbard also form part of Norway.[note 5] Bouvet Island, located in the Subantarctic, is a dependency of Norway; it also lays claims to the Antarctic territories of Peter I Island and Queen Maud Land. The capital and largest city in Norway is Oslo.",
+      "author": "mkct",
+      "id": 3
+    }
+  ]
+}
